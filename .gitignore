@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+.env
+.env.*
+work/
+*.mp4
+*.mov
+*.wav
+*.m4a
+*.ttf
+*.otf
+*.ttc
