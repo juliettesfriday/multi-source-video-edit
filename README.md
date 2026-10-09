@@ -8,7 +8,7 @@
 
 ## Video walkthrough / 使用示范
 
-[![Watch the English walkthrough with bilingual subtitles](docs/demo-poster.png)](https://github.com/juliettesfriday/multi-source-video-edit/raw/refs/heads/main/docs/skill-demo-en-zh.mp4)
+https://github.com/user-attachments/assets/7bffbe0c-5818-48b1-bccd-1eae3882d2b6
 
 **English narration · 中英文双语字幕 · 90 seconds · 1080p**
 
