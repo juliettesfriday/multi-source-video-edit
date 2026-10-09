@@ -1,0 +1,4 @@
+interface:
+  display_name: "多素材剪辑（含字幕进度条）"
+  short_description: "多段口播与PPT精剪、可编辑字幕和章节进度条，支持已有成片精准修改"
+  default_prompt: "使用 $multi-source-video-edit 按现有素材和我的要求剪辑视频，只询问当前缺少的信息，并尽量保持原始清晰度。"
