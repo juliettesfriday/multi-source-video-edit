@@ -6,6 +6,18 @@
 
 内部标识：`multi-source-video-edit`；界面显示：**多素材剪辑（含字幕进度条）**。
 
+## Video walkthrough / 使用示范
+
+[![Watch the English walkthrough with bilingual subtitles](docs/demo-poster.png)](https://github.com/juliettesfriday/multi-source-video-edit/raw/refs/heads/main/docs/skill-demo-en-zh.mp4)
+
+**English narration · 中英文双语字幕 · 90 seconds · 1080p**
+
+[Watch / download the video](https://github.com/juliettesfriday/multi-source-video-edit/raw/refs/heads/main/docs/skill-demo-en-zh.mp4) · [Download bilingual subtitles](docs/skill-demo-en-zh.srt)
+
+A short walkthrough of installation, prompting, conservative cuts, caption styling, chapter progress, and subtitle corrections. The interface and timeline are illustrative workflow graphics, not a recording of an automatic editing app. No private footage is included.
+
+演示安装、下指令、保守剪辑、字幕与章节进度条，以及后续改字。画面使用流程示意，不是一键自动剪辑软件的实录；不包含私人视频素材。
+
 ## 安装与使用
 
 把本仓库目录命名为 `multi-source-video-edit`，放进 Codex 的 skills 目录：默认 `~/.codex/skills/`，自定义环境则使用 `$CODEX_HOME/skills/`。已存在同名目录时先备份，不直接覆盖。重新打开任务以载入技能。
