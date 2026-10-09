@@ -1,0 +1,64 @@
+1
+00:00:00,000 --> 00:00:06,007
+Turn separate recordings into a clear, editable tutorial. This is Multi Source Video Edit.
+把分段录制整理成清晰、可修改的教程：多素材剪辑。
+
+2
+00:00:06,007 --> 00:00:10,536
+It is a skill for an AI coding assistant, not a one click editing app.
+它是 AI 编程助手的技能，不是一键自动剪辑软件。
+
+3
+00:00:10,536 --> 00:00:18,309
+First, download the repository. Rename the folder multi-source-video-edit, and place it in your Codex skills directory.
+首先下载仓库，将文件夹命名为 multi-source-video-edit，放入 Codex 技能目录。
+
+4
+00:00:18,309 --> 00:00:23,963
+Reopen your task to load the skill. Python and FFmpeg are needed for the editing scripts.
+重新打开任务加载技能。运行剪辑脚本需要 Python 和 FFmpeg。
+
+5
+00:00:23,963 --> 00:00:30,313
+Next, share your video paths and describe the result you want. A script is useful, but optional.
+接着提供视频路径，说明想要的效果。口播稿有帮助，但不是必填项。
+
+6
+00:00:30,313 --> 00:00:38,051
+For example: combine these clips in order. Remove stumbles and adjacent repeated takes. Keep all meaningful content.
+例如：按顺序合并片段，删掉卡壳和相邻重录，保留所有有效内容。
+
+7
+00:00:38,051 --> 00:00:44,439
+The assistant reviews the speech before choosing cuts. Silence alone is not a reason to delete a section.
+助手先理解口播再决定切点，不会仅凭静音就删除整段内容。
+
+8
+00:00:44,440 --> 00:00:51,476
+Here is an illustrative timeline. Keep the natural take, and retain a deletion log so cuts can be restored.
+这是示意时间轴：保留自然的那次表达，并记录删除清单，方便还原。
+
+9
+00:00:51,476 --> 00:00:58,826
+Ask for large subtitles and a chapter progress bar. Keep the original picture width, and extend the canvas below.
+要求大字幕和章节进度条：保留原画面宽度，向下扩展底栏。
+
+10
+00:00:58,826 --> 00:01:06,152
+Review a few preview frames first. Chapter markers should follow the actual content, not evenly spaced guesses.
+先看几张预览截图。章节节点要对应实际内容，而不是随意等分。
+
+11
+00:01:06,152 --> 00:01:14,484
+Subtitles remain editable. Open the generated subtitle editor, correct the text, and export an updated S R T file.
+字幕可以继续修改：打开生成的校对页面，改字后导出新的 SRT 文件。
+
+12
+00:01:14,483 --> 00:01:22,479
+Give the updated subtitles back to the assistant for rendering. Keep the video, subtitle file, and editing project together.
+把新版字幕交回助手重新渲染，并保留视频、字幕文件和可编辑工程。
+
+13
+00:01:22,479 --> 00:01:29,880
+For a later change, name the latest video and say exactly what to change. Download the skill from the repository below.
+后续修改时，指定最新视频和本次改动。通过下方仓库链接获取技能。
