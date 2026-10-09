@@ -1,0 +1,5 @@
+{
+  "source":"clean.mp4", "srt":"captions.srt", "font":"fonts/subtitle.ttf",
+  "reference_width":3240,"subtitle_size":100,"footer_height":420,"label_size":34,
+  "chapters":[{"start":0,"title":"开始","lines":["开始"]},{"start":2.5,"title":"实践","lines":["实践"]}]
+}
