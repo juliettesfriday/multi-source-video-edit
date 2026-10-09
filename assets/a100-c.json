@@ -1,0 +1,10 @@
+{
+  "source": "clean.mp4", "srt": "captions.srt", "font": "fonts/subtitle.ttf",
+  "reference_width": 3240, "subtitle_size": 100, "footer_height": 420,
+  "label_size": 34, "background": "#171522", "text_color": "#ffffff",
+  "progress_start": "#38acf0", "progress_end": "#bb8fed", "crf": 14,
+  "chapters": [
+    {"start": 0, "title": "内容介绍", "lines": ["内容介绍"]},
+    {"start": 30, "title": "实操演示", "lines": ["实操演示"]}
+  ]
+}
