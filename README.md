@@ -6,6 +6,20 @@
 
 内部标识：`multi-source-video-edit`；界面显示：**多素材剪辑（含字幕进度条）**。
 
+## See the skill in action / 效果宣传片
+
+https://github.com/user-attachments/assets/1bc462da-41e7-4d62-bb03-79458c12af22
+
+**English narration · English-first headlines · 中文小注释与双语字幕 · 60 seconds · 1080p**
+
+Multiple clips. One first cut. See how the skill helps an AI assistant assemble clips, remove silent gaps and adjacent repeats, and add editable subtitles and chapter progress.
+
+用美妆数字人示例展示多段合一、去空白与相邻重复、字幕与章节进度条，以及后续字幕修改。
+
+The before/after footage is a constructed demo with deliberately added pauses and a repeated take. 14.7 s → 4.9 s describes this demo’s content duration, not processing speed. The original avatar provider watermark is retained.
+
+演示素材刻意加入停顿和重复；时长对比指素材内容长度，不代表实际处理耗时。保留数字人来源水印。
+
 ## Video walkthrough / 使用示范
 
 https://github.com/user-attachments/assets/7bffbe0c-5818-48b1-bccd-1eae3882d2b6
