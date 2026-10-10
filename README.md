@@ -2,11 +2,13 @@
 
 一个面向 AI 编程助手的口播 / PPT 视频剪辑 skill。支持从多个素材整理成片，也支持只改一个现有视频。保守剪辑、可编辑字幕、章节进度条、高清导出，以及“只改这一次要求的部分”。
 
-**不是一键自动剪辑软件**：skill 指导助手理解口播和作出剪辑判断，脚本执行已经确定的时间轴。不内置语音识别模型，不会自动决定删哪句话。
+**一键合并素材，剪掉停顿卡壳，口播更顺畅。**
+
+把素材和剪辑要求交给 AI 助手，整理多段口播、精简重复表达，再配上可编辑字幕与章节进度条，更轻松地完成初版剪辑。
 
 内部标识：`multi-source-video-edit`；界面显示：**多素材剪辑（含字幕进度条）**。
 
-## See the skill in action / 效果宣传片
+## See the skill in action / 效果展示
 
 https://github.com/user-attachments/assets/1bc462da-41e7-4d62-bb03-79458c12af22
 
@@ -58,6 +60,8 @@ A short walkthrough of installation, prompting, conservative cuts, caption styli
 A100 是参考宽度3240时的100像素字幕、420像素底栏，默认白字无描边；其他尺寸按比例适配。C为蓝紫章节进度条。它们是可选预设，不强制套用。画面内进度条不可点击，拖动由播放器完成。
 
 ## 本地运行依赖
+
+本 skill 配合 AI 助手使用：助手负责理解口播与剪辑判断，脚本负责执行时间轴；语音识别使用助手可用的工具，本仓库不内置识别模型。
 
 Python **3.11+**、FFmpeg 和 ffprobe。底栏渲染/截图需要 Pillow：
 
